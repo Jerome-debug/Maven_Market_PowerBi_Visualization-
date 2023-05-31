@@ -17,6 +17,6 @@ Data Visualization in PowerBI
 
 
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="Screenshot (94).pnge" width="350" title="hover text">
+  <img src="Screenshot (94).png" width="350" alt="accessibility text">
 </p>
