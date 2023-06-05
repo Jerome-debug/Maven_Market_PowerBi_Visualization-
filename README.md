@@ -33,5 +33,5 @@ Data Visualization in PowerBI
 
 <p align="left">
   
-  <img src="Screenshot (94).png" width="1000" alt="accessibility text">
+  <img src="Screenshot (101).png" width="1000" alt="accessibility text">
 </p>
